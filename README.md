@@ -1,0 +1,2 @@
+# templates
+VNFD template repository
